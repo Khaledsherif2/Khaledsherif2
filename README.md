@@ -1,32 +1,3 @@
-# Hi 👋, I'm Khaled Sherif
+height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
 
-**MERN Stack Developer (React - Nodejs)**
-
-- 🌱 I’m currently learning **Developing desktop apps with electronjs integrated with reactjs**
-- 📫 How to reach me: [khalid.sherif220@gmail.com](mailto:khalid.sherif220@gmail.com)
-- 📄 Know about my experiences: [Google Drive Link](https://drive.google.com/drive/folders/1ooRYgXdu2TRfPei83LF2fCXIGuZoKOb8?usp=drive_link)
-
-## Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khaled-sherif2/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Khaledsherif2)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/khaledsherif22)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/khaled_sherif2)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/khaled_0072)
-
----
-
-## Languages and Tools:
-
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/html5.svg" alt="HTML5" width="40" height="40" style="margin-right: 10px;" />
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/css3.svg" alt="CSS3" width="40" height="40" style="margin-right: 10px;" />
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/javascript.svg" alt="JavaScript" width="40" height="40" style="margin-right: 10px;" />
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/bootstrap.svg" alt="Bootstrap" width="40" height="40" style="margin-right: 10px;" />
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/tailwind.svg" alt="Tailwind" width="40" height="40" style="margin-right: 10px;" />
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/react.svg" alt="React.js" width="40" height="40" style="margin-right: 10px;" />
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/electron.svg" alt="Electron.js" width="40" height="40" style="margin-right: 10px;" />
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/node-dot-js.svg" alt="Node.js" width="40" height="40" style="margin-right: 10px;" />
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/express.svg" alt="Express.js" width="40" height="40" style="margin-right: 10px;" />
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/mongodb.svg" alt="MongoDB" width="40" height="40" style="margin-right: 10px;" />
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/mongoose.svg" alt="Mongoose" width="40" height="40" style="margin-right: 10px;" />
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/firebase.svg" alt="Firebase" width="40" height="40" style="margin-right: 10px;" />
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/api.svg" alt="RESTful APIs" width="40" height="40" style="margin-right: 10px;" />
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=khaledsherif2&show_icons=true&locale=en&layout=compact" alt="khaledsherif2" /></p>
