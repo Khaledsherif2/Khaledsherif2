@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Khaled Sherif</h1>
 <h3 align="center">Backend Developer (Node.js - Express.js)</h3>
 
-- 🌱 I’m currently learning Containerization with with **Docker & DevOps workflows**
+- 🌱 I’m currently learning Containerization with **Docker & DevOps workflows**
 
 - 📫 How to reach me **khalid.sherif220@gmail.com**
 
