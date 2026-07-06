@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Khaled Sherif</h1>
-<h3 align="center">MERN Stack Developer (React - Nodejs)</h3>
+<h3 align="center">Backend Developer (Node.js - Express.js)</h3>
 
-- 🌱 I’m currently learning Developing desktop apps **with electronjs integrated with reactjs**
+- 🌱 I’m currently learning Containerization with with **Docker & DevOps workflows**
 
 - 📫 How to reach me **khalid.sherif220@gmail.com**
 
-- 📄 Know about my experiences [Drive Link](https://drive.google.com/drive/folders/1ooRYgXdu2TRfPei83LF2fCXIGuZoKOb8?usp=drive_link)
+- 📄 Know about my experiences [Drive Link](https://drive.google.com/file/d/1ugAlzjmoGeQOZ3KYic3FwMclpsfLWbD3/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/khaled_sherif2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="khaled_sherif2" height="30" width="40" /></a>
+<a href="https://x.com/khaled_sherif2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="khaled_sherif2" height="30" width="40" /></a>
 <a href="https://fb.com/khaledsherif22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="khaledsherif22" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.gg/uNjKkgTJ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/uNjKkgTJ" height="30" width="40" /></a>
+<a href="https://discord.gg/uNjKkgTJ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/uNjKkgTJ" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
